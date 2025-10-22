@@ -16,7 +16,7 @@ We implemented and compared multiple algorithms to understand how modeling choic
 3. Kernelized Matrix Factorization (Kernel MF)  
 4. Principal Component Analysis (PCA and EM-PCA)
 
-Our main evaluation metric was **Root Mean Squared Error (RMSE)** and **accuracy**.
+Evaluation metric: **Root Mean Squared Error (RMSE)** and **Accuracy**.
 
 ---
 
