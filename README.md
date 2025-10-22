@@ -59,20 +59,6 @@ Our main evaluation metric was **Root Mean Squared Error (RMSE)** and **accuracy
 - **PCA** acts as a robust dimensionality reduction approach, yielding interpretable components tied to movie genres.
 
 ---
-
-## Repository Structure
-├── KMF/ # Kernelized Matrix Factorization implementations
-├── PCA/ # PCA, EM-PCA, and KPCA implementations
-├── MF_ALS.py # Alternating Least Squares method
-├── generate.py # Data generation and preprocessing scripts
-├── evaluation.py # Evaluation and metric computation
-├── requirements.txt # Python dependencies
-├── report.pdf # Full written report
-├── slides.pdf # Presentation slides
-└── LICENSE
-
-
----
 ## Authors
 
 - Rayane Dakhlaoui — Télécom Paris / IASD PSL
